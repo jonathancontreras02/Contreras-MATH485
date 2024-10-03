@@ -1,6 +1,7 @@
 title: Jonathan's Math 485 Website
 
-theme: minima
+theme: merlot
+description: This is my personal website using a Jekyll theme.
 ---
 title:
 layout: default
