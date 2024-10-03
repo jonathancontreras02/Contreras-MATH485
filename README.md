@@ -1,2 +1,3 @@
 # Contreras-MATH485
-Codepath for math 485 coursework
+
+This repository serves as the codepath for my coursework in MATH485-Topics in Data Science.
