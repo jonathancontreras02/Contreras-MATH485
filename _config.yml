@@ -1,12 +1,3 @@
-
-title: Jonathan's Math 485 Website
-
-theme: merlot
-description: "This is my personal website using a merlot theme."
-
-
-
-
-
-
-
+title: "Jonathan's Math 485 Website"
+theme: minima
+description: "This is my personal website using a minima theme."
