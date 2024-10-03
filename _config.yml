@@ -1,4 +1,9 @@
-key: value
-list:
-  - test1
-  - test2
+title: Jonathan's Math 485 Website
+
+theme: minima
+---
+title: Welcome
+layout: default
+---
+
+Hello!
