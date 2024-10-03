@@ -4,5 +4,5 @@ plugins:
 gem "github-pages", group: :jekyll_plugins
 title: [Jon's MATH485 Repository]
 description: [This repository serves as a codepath for my various coursework in MATH485:Topics in Data Science.]
-show_downloads: ["true" or "false" (unquoted) to indicate whether to provide a download URL]
-google_analytics: [Your Google Analytics tracking ID]
+show_downloads: ["true"]
+
