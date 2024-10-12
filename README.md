@@ -1,6 +1,6 @@
 ---
-title: Jon's MATH485 Repository
-description: This repository serves as a codepath for my various coursework in MATH485: Topics in Data Science.
+title: "Jon's MATH485 Repository"
+description: "This repository serves as a codepath for my various coursework in MATH485: Topics in Data Science."
 ---
 
 ## Welcome to My MATH485 Repository
