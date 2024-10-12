@@ -12,5 +12,4 @@ This repository contains various coursework projects for MATH485: Topics in Data
 Here are the data sources used in this repository:
 
 - [Unit 1 Project: Instacart Orders](https://www.kaggle.com/competitions/instacart-market-basket-analysis/data)
-- [Unit 2 Project]()  
 - [Galapagos Turtles](./data/dataset3.csv)
