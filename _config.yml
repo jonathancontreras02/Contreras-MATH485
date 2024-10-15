@@ -1,5 +1,5 @@
 title: Jon's Portfolio
-logo: /assets/img/logo.png
+logo:
 description: This is a portfolio for my MATH485 assignment.
 show_downloads: true
 theme: jekyll-theme-minimal
